@@ -1,0 +1,75 @@
+.centrado{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+body {
+    
+    background-color: #ffdd90;
+    background-image: url("POLI2.png");
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    }
+
+header  {
+    padding: 70px;
+    font-family: Cloud;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 48px;
+    color: #FCF6F6;
+    text-align: center;
+
+    }
+
+main {
+    
+     padding: 315px;
+     font-family: Century Gothic;
+     font-style: italic;
+     font-weight: normal;
+     font-size: 15px;
+     line-height: 18px;
+     border-radius: 19px;
+    
+
+}
+
+section {
+
+    
+    margin-left: auto;
+    margin-right: auto;    
+    width: 100px;
+    height: 65px;
+    background: #009933;
+    border-radius: 19px;
+    font-family: Cloud;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 21px;
+    justify-content: center;
+    display: flex;
+   
+        
+      }
+
+
+footer {
+    bottom: 0;
+    position: fixed;
+    font-family: Cloud;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 14px;
+    color: #F7F7F7;;
+    text-align: center;
+}
+
